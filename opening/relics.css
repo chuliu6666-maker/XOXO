@@ -1,0 +1,211 @@
+.relic-home { background: #000; }
+
+.relic-hero {
+  position: relative;
+  display: grid;
+  place-items: end center;
+  min-height: 100svh;
+  overflow: hidden;
+  background: #000;
+  color: #fff;
+  cursor: default;
+}
+
+.relic-hero:focus-visible { outline-offset: -5px; }
+
+.relic-hero-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.relic-hero-stage {
+  position: relative;
+  width: 100%;
+  height: 100svh;
+}
+
+.relic-hero-stage > img, .relic-hero-character, .relic-hero-nav {
+  position: absolute;
+  top: var(--y);
+  left: var(--x);
+  width: var(--w);
+  height: auto;
+  user-select: none;
+}
+
+.relic-hero-stage > img {
+  z-index: 1;
+  translate: calc(var(--base-x, 0%) + var(--drift-x, 0px)) calc(var(--base-y, 0%) + var(--drift-y, 0px));
+  rotate: calc(var(--angle, 0deg) + var(--sway, 0deg));
+  scale: var(--prop-scale, 1);
+  opacity: calc(1 - .16 * var(--solemn, 0));
+  cursor: grab;
+  touch-action: none;
+  -webkit-user-drag: none;
+}
+
+.relic-hero-stage > img[data-dragging] {
+  z-index: 2;
+  cursor: grabbing;
+}
+
+.relic-hero-stage .relic-hero-sword {
+  width: auto;
+  height: var(--length);
+  --base-x: -50%;
+  --base-y: -50%;
+}
+
+.relic-hero-character {
+  z-index: 0;
+  aspect-ratio: 861 / 1550;
+  pointer-events: none;
+}
+
+.relic-hero-character img {
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.relic-hero-nav {
+  top: auto;
+  bottom: .5%;
+  left: 50.375%;
+  z-index: 3;
+  width: clamp(126px, 18%, 280px);
+  translate: -50%;
+}
+
+.relic-nav-button {
+  display: block;
+  width: 100%;
+  min-height: 44px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+}
+
+.relic-nav-surface {
+  position: relative;
+  display: block;
+  width: 100%;
+  pointer-events: none;
+}
+
+.relic-nav-surface img { width: 100%; height: auto; }
+.relic-nav-surface.is-warping > img { opacity: 0; }
+
+.relic-nav-warp {
+  position: absolute;
+  inset: -12%;
+  width: 124%;
+  height: 124%;
+  pointer-events: none;
+}
+
+.relic-nav-button:focus-visible { outline-color: #ffe3fa; }
+
+.relic-nav-panel {
+  position: absolute;
+  bottom: calc(100% + clamp(8px, 1.7svh, 16px));
+  left: 50%;
+  translate: -50%;
+  display: grid;
+  justify-items: center;
+  gap: clamp(4px, 1svh, 8px);
+  width: min(300px, calc(100vw - 44px), 68svh);
+  cursor: default;
+}
+
+.relic-nav-panel a {
+  --delay: 90ms;
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  min-height: 44px;
+  border-radius: 16% / 50%;
+  cursor: pointer;
+}
+
+.relic-nav-panel a:nth-child(2) { --delay: 45ms; }
+.relic-nav-panel a:last-child { --delay: 0ms; width: 86.6%; }
+
+
+.relic-nav-panel a:is(:hover, :focus-visible) { z-index: 1; }
+
+.relic-nav-panel a:focus-visible {
+  outline-color: #ffe3fa;
+  outline-offset: 2px;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .relic-nav-panel:not([hidden]) a {
+    animation: relic-nav-in .32s cubic-bezier(.2, .75, .3, 1) var(--delay) both;
+    transform-origin: center bottom;
+  }
+}
+
+@keyframes relic-nav-in {
+  from { opacity: 0; transform: translateY(18px) scale(.85, .7); }
+  to { opacity: 1; transform: none; }
+}
+
+/* Spread the relics over the viewport, leaving the middle clear for the portrait. */
+[data-relic="faerie"] { --x: 35.2%; --y: 6.1%; --w: 34.4%; }
+[data-relic="buckler"] { --x: 7.5%; --y: 7%; --w: 15.5%; }
+[data-relic="ceremonial-sword"] { --x: 22%; --y: 46%; --length: 31%; --angle: -31deg; }
+[data-relic="sword"] { --x: 25%; --y: 48%; --length: 37%; --angle: 30deg; }
+[data-relic="goblet"] { --x: 5%; --y: 57%; --w: 8.2%; }
+[data-relic="dumbbell"] { --x: 10.5%; --y: 72%; --w: 18%; }
+[data-relic="skateboard"] { --x: 72%; --y: 5%; --w: 23%; }
+[data-relic="knight-helmet"] { --x: 82%; --y: 27%; --w: 15%; }
+[data-relic="armor"] { --x: 74%; --y: 53%; --w: 15%; }
+[data-relic="bow"] { --x: 72%; --y: 69%; --w: 25%; }
+
+@media (max-aspect-ratio: 1/1) {
+  .relic-hero-stage {
+    width: min(100%, 67svh);
+    height: 100svh;
+    aspect-ratio: auto;
+  }
+
+  .relic-hero-stage [data-relic="faerie"] { left: 50%; top: auto; bottom: 0; width: auto; height: min(68%, 122vw); translate: -50%; }
+  [data-relic="buckler"] { --x: 7%; --y: 14%; --w: 28%; }
+  [data-relic="ceremonial-sword"] { --x: 16%; --y: 40%; --length: min(21%, 42vw); }
+  [data-relic="sword"] { --x: 20%; --y: 39%; --length: min(23%, 46vw); }
+  [data-relic="goblet"] { --x: 5%; --y: 54%; --w: 13%; }
+  [data-relic="dumbbell"] { --x: 7%; --y: 79%; --w: 28%; }
+  [data-relic="skateboard"] { --x: 56%; --y: 14%; --w: 36%; }
+  [data-relic="knight-helmet"] { --x: 78%; --y: 32%; --w: 18%; }
+  [data-relic="armor"] { --x: 79%; --y: 57%; --w: 17%; }
+  [data-relic="bow"] { --x: 65%; --y: 72%; --w: 31%; }
+  .relic-hero-nav { left: 50%; bottom: 2%; width: clamp(128px, 39%, 210px); }
+}
+
+.relic-hero-stage [data-relic="faerie"] {
+  left: 50%;
+  top: auto;
+  bottom: 0;
+  width: 76.244svh;
+  height: 115svh;
+  aspect-ratio: auto;
+  translate: -50%;
+}
+.relic-hero-character img { object-fit: contain; }
+.relic-hero-character > img {
+  object-fit: contain;
+  object-position: center bottom;
+}
+
+@media (max-aspect-ratio: 1/1) {
+  .relic-hero-stage [data-relic="faerie"] { width: 57.017svh; height: 86svh; }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "source": "商业落地/龙湖/失控花园_画板 1-02.jpg",
+    "sourceWidth": 1980,
+    "sourceHeight": 2877,
+    "sourceBytes": 6946244,
+    "sourceSHA256": "ba215dc6c850bbd75ba3a3da4e6ce72f5b408b1043e3c51fcf4052d965992d4e",
+    "preview": "updated-01.webp",
+    "width": 1762,
+    "height": 2560,
+    "previewBytes": 1448286,
+    "previewSHA256": "f25392d8293170fa0c31bca1b3c5ab70e8d29491aa7f5eb820c445f219f66002",
+    "orientation": 1
+  },
+  {
+    "source": "商业落地/龙湖/2.jpg",
+    "sourceWidth": 1980,
+    "sourceHeight": 2877,
+    "sourceBytes": 6840125,
+    "sourceSHA256": "79558538d074bc795aad73e54e18479525e835ed5a66debaf8bd604acc7e061f",
+    "preview": "updated-02.webp",
+    "width": 1762,
+    "height": 2560,
+    "previewBytes": 1426336,
+    "previewSHA256": "d02f9a5a50fa78314b885be551eb5c1bf772937d238705a6638c038625411ff4",
+    "orientation": 1
+  },
+  {
+    "source": "商业落地/龙湖/微信图片_2026-03-05_131819_912.jpg",
+    "sourceWidth": 1980,
+    "sourceHeight": 2878,
+    "sourceBytes": 6890552,
+    "sourceSHA256": "7df62db0f981ed92d359efe022cefa26652946ec47da1201eca043d36f5a1437",
+    "preview": "updated-03.webp",
+    "width": 1761,
+    "height": 2560,
+    "previewBytes": 1426894,
+    "previewSHA256": "1ac4cc67de3bf25e187ad536b0cf3a53324b834b4d31139a98b04daa7e5e33fd",
+    "orientation": 1
+  },
+  {
+    "source": "商业落地/龙湖/c0be8e09a78b6569261bc2c228537d7a.jpg",
+    "sourceWidth": 1124,
+    "sourceHeight": 1025,
+    "sourceBytes": 304858,
+    "sourceSHA256": "6385b77c4f4b8e637fc72f477eb6ec5bd50e49c3372edc67e2e61c80f412c5b5",
+    "preview": "updated-04.webp",
+    "width": 1124,
+    "height": 1025,
+    "previewBytes": 251996,
+    "previewSHA256": "f8a9aabb8465476f9a3ad8c149bbe65325c61d90a436c38f76e7b618e5f92cd0",
+    "orientation": 1
+  },
+  {
+    "source": "商业落地/龙湖/2f282dc1d10b6824050ee994ead08657.jpg",
+    "sourceWidth": 1279,
+    "sourceHeight": 1706,
+    "sourceBytes": 283482,
+    "sourceSHA256": "a2e0e771237d0825e0b8301190a6466b3884e9d0b92d53ed7d27bdb1c94c5f0b",
+    "preview": "updated-05.webp",
+    "width": 1279,
+    "height": 1706,
+    "previewBytes": 585904,
+    "previewSHA256": "63c983c90d5193f6fe4825e591158d48ba885cf905111e5e7b0f6eed712f76f0",
+    "orientation": 1
+  }
+]

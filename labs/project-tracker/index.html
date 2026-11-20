@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080a0e">
+  <title>实验 · HANNA PROJECTS</title>
+  <link rel="icon" href="data:,">
+  <meta name="application-version" content="1.8.2">
+  <link rel="stylesheet" href="./style.css?v=1.8.2">
+  <link rel="stylesheet" href="../../cursor.css?v=nov20-dagger">
+  <link rel="preload" as="image" href="assets/previews/xoxobliterate.webp?v=1.8.2" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/previews/queens-gambit.webp?v=1.8.2" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/previews/chroma-mutation.webp?v=1.8.2" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/previews/hanna.webp?v=1.8.2" fetchpriority="high">
+  <script type="importmap">{"imports":{"three":"./vendor/three.module.js?v=1.8.2"}}</script>
+  <link rel="stylesheet" href="../../back-button.css?v=nov21">
+</head>
+<body class="dark">
+  <a class="pearl-about lab-about" href="../../about.html" aria-label="关于我"><img src="../../assets/navigation/about-me.png" width="168" height="67" alt="About me"></a>
+  <a class="pearl-back home-link" href="../../index.html" aria-label="返回首页" title="返回首页"><img src="../../assets/navigation/back-pearl-knot.png" width="38" height="38" alt=""></a>
+  <main id="stage" aria-label="三维作品架。悬停海报加速沿轨道旋转并倾摆，空白处渐停；左键拖动整个空间，滚轮有限缩放，点击只放大原图。" tabindex="0">
+    <div id="loading-preview" class="loading-preview" aria-hidden="true">
+      <img src="assets/previews/xoxobliterate.webp?v=1.8.2" width="768" height="1024" alt="" fetchpriority="high" decoding="async">
+      <img src="assets/previews/queens-gambit.webp?v=1.8.2" width="1024" height="1024" alt="" fetchpriority="high" decoding="async">
+      <img src="assets/previews/chroma-mutation.webp?v=1.8.2" width="866" height="1024" alt="" fetchpriority="high" decoding="async">
+      <img src="assets/previews/hanna.webp?v=1.8.2" width="866" height="1024" alt="" fetchpriority="high" decoding="async">
+    </div>
+    <div id="loading" class="loading-spinner" role="status" aria-label="正在装配轨道"></div>
+  </main>
+  <dialog id="details" aria-label="海报图片放大">
+    <button class="icon-control close" id="close-detail" aria-label="关闭图片" type="button"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18" stroke-linecap="round"/></svg></button>
+    <figure class="image-preview"><img id="detail-image" alt=""><figcaption id="detail-caption"></figcaption></figure>
+  </dialog>
+  <script defer src="./app.bundle.js"></script>
+  <script>
+    // Loading status stays accessible while the visible shell remains image-only.
+    window.addEventListener('error', event => {
+      if (event.target?.tagName === 'SCRIPT') document.querySelector('#loading').setAttribute('aria-label','模块加载失败，请通过本地 HTTP 服务打开此目录。');
+    }, true);
+    setTimeout(() => { const el = document.querySelector('#loading'); if (el && !el.hidden) el.setAttribute('aria-label','正在载入作品，请检查本地HTTP服务与WebGL 2支持。'); }, 12000);
+  </script>
+</body>
+</html>

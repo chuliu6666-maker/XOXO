@@ -1,0 +1,143 @@
+{
+  "version": "1.8.1",
+  "maximumEdge": 1024,
+  "format": "WebP quality 88",
+  "firstVisibleIds": [
+    "xoxobliterate",
+    "queens-gambit",
+    "chroma-mutation",
+    "hanna"
+  ],
+  "items": [
+    {
+      "id": "xoxobliterate",
+      "source": "assets/posters/xoxobliterate.jpg",
+      "sourceSHA256": "d172735e4addb629f17993e0a97b31f5711eeafc2720f8d6e378067b32667630",
+      "preview": "assets/previews/xoxobliterate.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 209244,
+      "previewSHA256": "add13660028bda587a019532a7b94c40fbed5bab3867fde5551837cb3c61f08b"
+    },
+    {
+      "id": "queens-gambit",
+      "source": "assets/posters/queens-gambit.jpg",
+      "sourceSHA256": "7f10cd95e7508fe7a2f3f120333f268fe4fa2478c6f6262757bfb314e4c48d10",
+      "preview": "assets/previews/queens-gambit.webp",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 133102,
+      "previewSHA256": "2900485eaf6200526fd251d778b5d5b67ac412ea454523e4c304154d0585ce67"
+    },
+    {
+      "id": "chroma-mutation",
+      "source": "assets/posters/chroma-mutation.jpg",
+      "sourceSHA256": "f4cc5bd92fb1b781e18a8b78b48d12e3b7f9fbde6cc39251160361221d6a8f3f",
+      "preview": "assets/previews/chroma-mutation.webp",
+      "width": 866,
+      "height": 1024,
+      "bytes": 281380,
+      "previewSHA256": "7a23c26e39a94f68c24e9c46dcb18da5540940765f8617879bc33ff0f50adbe6"
+    },
+    {
+      "id": "hanna",
+      "source": "assets/posters/hanna.jpg",
+      "sourceSHA256": "ce4d242dd3917bf7cf6558dd21a175ce813c2eb1053a4c6ce5dffbc9f2c985bc",
+      "preview": "assets/previews/hanna.webp",
+      "width": 866,
+      "height": 1024,
+      "bytes": 154888,
+      "previewSHA256": "0244219eb364be971df0c02819df2fcc1077fe9fb450a951ccbfbb81ab67ebe5"
+    },
+    {
+      "id": "shenqian-yanwu-1",
+      "source": "assets/posters/shenqian-yanwu-1.jpg",
+      "sourceSHA256": "ab3812342cc13346e506730eb741bfde56c74aa3450ca4c9f0486ce5f8058a35",
+      "preview": "assets/previews/shenqian-yanwu-1.webp",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 227154,
+      "previewSHA256": "444b84fd7c2d874030b14a1d83dbcd4f4c2e6ad5cacb8499c246a2ed33c399a2"
+    },
+    {
+      "id": "shenqian-yanwu-2",
+      "source": "assets/posters/shenqian-yanwu-2.jpg",
+      "sourceSHA256": "54dffbb791f45783d2b6ed133a0789f66eadff9b5bdf68941553da4c0c4d1456",
+      "preview": "assets/previews/shenqian-yanwu-2.webp",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 188458,
+      "previewSHA256": "864a08dac538ba65c358d2fc089149ec98e7dea16b93c0ed65da336cd39afd9a"
+    },
+    {
+      "id": "shenqian-yanwu-3",
+      "source": "assets/posters/shenqian-yanwu-3.jpg",
+      "sourceSHA256": "760af444a67674eddfec82daba50a784d1d4aea04bb6488b03255b59678393fe",
+      "preview": "assets/previews/shenqian-yanwu-3.webp",
+      "width": 1024,
+      "height": 576,
+      "bytes": 207084,
+      "previewSHA256": "7dce29d37d5c8532b991cd1db2e967785f4f609e0c8b27eee93a9aa4b9218e82"
+    },
+    {
+      "id": "shenqian-yanwu-4",
+      "source": "assets/posters/shenqian-yanwu-4.jpg",
+      "sourceSHA256": "3129b400184d14591abe2c3886849f04dec355c339513f6f9a56ae67c6ce5910",
+      "preview": "assets/previews/shenqian-yanwu-4.webp",
+      "width": 1024,
+      "height": 576,
+      "bytes": 162694,
+      "previewSHA256": "808c499159de389f391161a2111b8094c97e159434e92e5bf03df246e78dc8fd"
+    },
+    {
+      "id": "otherkin-faerie",
+      "source": "assets/posters/otherkin-faerie.jpg",
+      "sourceSHA256": "e0bd03acc151349015d5b9a2b1bd24b7143cea411c3a43bc64512753329b5d38",
+      "preview": "assets/previews/otherkin-faerie.webp",
+      "width": 683,
+      "height": 1024,
+      "bytes": 55940,
+      "previewSHA256": "81ea0d1cefda45e05f352be12681e718933c98d42ef1066ab418b624e6ed6a20"
+    },
+    {
+      "id": "pyraxte-studio",
+      "source": "assets/posters/pyraxte-studio.jpg",
+      "sourceSHA256": "d58424923960a57fbba3be3fd642b902b8af8b62b56da9d8d6eca1df55787af8",
+      "preview": "assets/previews/pyraxte-studio.webp",
+      "width": 1024,
+      "height": 576,
+      "bytes": 117566,
+      "previewSHA256": "6466b1e1f9604e51407a8f8c5f66746c9887fd96d8efeaec99d902a826340806"
+    },
+    {
+      "id": "thorn-reliquary",
+      "source": "assets/posters/thorn-reliquary.png",
+      "sourceSHA256": "cf600d1b168b2332ba58f69f0a56d387f0518d7e9f8e88d40fc3714476725a92",
+      "preview": "assets/previews/thorn-reliquary.webp",
+      "width": 678,
+      "height": 1024,
+      "bytes": 181832,
+      "previewSHA256": "2b68334748441f7f63d1aae1396b14ba826e9ab982d3716ce0bd16f1c908ea3a"
+    },
+    {
+      "id": "twin-dragon-requiem",
+      "source": "assets/posters/twin-dragon-requiem.jpg",
+      "sourceSHA256": "abbab21122a315b801c6bcee90dfa8d02a6c7a22ea3d2b2eb1ace4a947667661",
+      "preview": "assets/previews/twin-dragon-requiem.webp",
+      "width": 576,
+      "height": 1024,
+      "bytes": 195174,
+      "previewSHA256": "c4d71cf7ede062b5c4c8d9ee89de0520396a8a749877db0e8b22837240e09370"
+    },
+    {
+      "id": "hanna-2",
+      "source": "assets/posters/hanna-2.jpg",
+      "sourceSHA256": "f927d0c0d9cdcc84b6351724eb14782c1f9004df920d3474ad8d30e5fdbcbe96",
+      "preview": "assets/previews/hanna-2.webp",
+      "width": 829,
+      "height": 1024,
+      "bytes": 91490,
+      "previewSHA256": "4e61ca3488b6e0cd8f182171c5ae82aa9460be75b4b2a4449d6b6c700874cfaa"
+    }
+  ]
+}

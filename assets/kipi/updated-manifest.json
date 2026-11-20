@@ -1,0 +1,86 @@
+[
+  {
+    "source": "商业落地/KIPIC韩国相机/LOGO.jpg",
+    "sourceWidth": 1876,
+    "sourceHeight": 1876,
+    "sourceBytes": 256365,
+    "sourceSHA256": "2b1e7e2e20c1f0d84d2a64ba055c783d9ece16ab2449210fb90cdd85fc0622c6",
+    "url": "assets/kipi/updated-01.webp",
+    "width": 1876,
+    "height": 1876,
+    "bytes": 57592,
+    "previewSHA256": "7d8d6833fffa58cb29a429a16b3d5cf4f5b734257700de71055ca96ef9d0dd0a"
+  },
+  {
+    "source": "商业落地/KIPIC韩国相机/logo (2).jpg",
+    "sourceWidth": 1876,
+    "sourceHeight": 1876,
+    "sourceBytes": 354989,
+    "sourceSHA256": "4b66312e88f8425c79d1506b083a792125e0b364c6bcf7b2a6f36bab1a2bac50",
+    "url": "assets/kipi/updated-02.webp",
+    "width": 1876,
+    "height": 1876,
+    "bytes": 70652,
+    "previewSHA256": "86b37da0ce866c8cd93b0f8e77ecda18d0627be899e2c09b91507bdfa7e7b8ad"
+  },
+  {
+    "source": "商业落地/KIPIC韩国相机/16cfba5ad0149112d9ba4651776be9f6.jpg",
+    "sourceWidth": 1080,
+    "sourceHeight": 1730,
+    "sourceBytes": 285807,
+    "sourceSHA256": "dc383cffdc45d05d75eab28c6a05a714d97ddb48d10d8a97c074bb3bbf7d89f7",
+    "url": "assets/kipi/updated-03.webp",
+    "width": 1080,
+    "height": 1730,
+    "bytes": 240854,
+    "previewSHA256": "a43b38d263a0e75b9e3c04bb7cb428a5f9b2a9b53b42fd08746a482946eb1c65"
+  },
+  {
+    "source": "商业落地/KIPIC韩国相机/Gemini_Generated_Image_2dlur82dlur82dlu.jpg",
+    "sourceWidth": 1792,
+    "sourceHeight": 2388,
+    "sourceBytes": 1167019,
+    "sourceSHA256": "fa0e356068132fb189e1fd6f84f8ac0422a9e1c3f1e22b9da8aa7590aca38ee5",
+    "url": "assets/kipi/updated-04.webp",
+    "width": 1792,
+    "height": 2388,
+    "bytes": 1221092,
+    "previewSHA256": "0128bbbe1d792a56f5d791283f0d4a483331e21ccc4cf9335187a98f2e552ac3"
+  },
+  {
+    "source": "商业落地/KIPIC韩国相机/是.jpg",
+    "sourceWidth": 1792,
+    "sourceHeight": 2222,
+    "sourceBytes": 1124222,
+    "sourceSHA256": "15194320f1d50436f4035a9cb007eaba6f4d794ac1a3dfc5ca2fd414d80a76d6",
+    "url": "assets/kipi/updated-05.webp",
+    "width": 1792,
+    "height": 2222,
+    "bytes": 1223302,
+    "previewSHA256": "6bc5c07998abbf1f5d57e53c3711c4b915cf489ed58e87b288153bee166d1479"
+  },
+  {
+    "source": "商业落地/KIPIC韩国相机/Pugi Land LOGO-07.jpg",
+    "sourceWidth": 4726,
+    "sourceHeight": 5909,
+    "sourceBytes": 8826378,
+    "sourceSHA256": "2a4cdc30aa959903e1cdb5610257212a1ab67e639365cf1f102b54c24be4dd27",
+    "url": "assets/kipi/updated-06.webp",
+    "width": 2047,
+    "height": 2560,
+    "bytes": 488150,
+    "previewSHA256": "e7e7c6d2aa34fa489a669b3ccb6d6f8920dbcdfeecfa03f65305e6d61b1bd450"
+  },
+  {
+    "source": "商业落地/KIPIC韩国相机/Pugi Land LOGO-08.jpg",
+    "sourceWidth": 5080,
+    "sourceHeight": 6351,
+    "sourceBytes": 8798434,
+    "sourceSHA256": "9d4ed2525ae5ce5cd42d51a090332a8ea2221c2eda7b04b0270e78231bc20cf0",
+    "url": "assets/kipi/updated-07.webp",
+    "width": 2048,
+    "height": 2560,
+    "bytes": 501676,
+    "previewSHA256": "d0dcae5635d1e08c62af390579a6c7fefc23d92b32c3131613b91f9c26958f5d"
+  }
+]

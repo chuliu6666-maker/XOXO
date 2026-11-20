@@ -1,0 +1,715 @@
+[
+  {
+    "source": "影像/The_glitter_in_202512022103_vl2gh.m4v",
+    "title": "The Glitter",
+    "url": "assets/films-updated/glitter.mp4",
+    "bytes": 8969781,
+    "sha256": "a77934ffe5f873464185edb842b8506ea1dff20126af33a97226cc2d5561547e",
+    "videoCodec": "h264",
+    "width": 720,
+    "height": 1280,
+    "duration": 8.0,
+    "fps": 24.0,
+    "audioStream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 140 kb/s (default)",
+    "fastStart": false,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 32
+      },
+      {
+        "type": "free",
+        "position": 32,
+        "bytes": 8
+      },
+      {
+        "type": "uuid",
+        "position": 40,
+        "bytes": 5393
+      },
+      {
+        "type": "mdat",
+        "position": 5433,
+        "bytes": 8957438
+      },
+      {
+        "type": "moov",
+        "position": 8962871,
+        "bytes": 6910
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/glitter-p1.jpg",
+        "seconds": 1.2,
+        "width": 720,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/glitter-p2.jpg",
+        "seconds": 3.6,
+        "width": 720,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/glitter-p3.jpg",
+        "seconds": 6.0,
+        "width": 720,
+        "height": 1280
+      }
+    ],
+    "profile": "High",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/kling_20251128_多模态视频编辑_基于_视频_中的原始_6126_0.mp4",
+    "title": "动态影像",
+    "url": "assets/films-updated/motion-study.mp4",
+    "bytes": 10884122,
+    "sha256": "e4f81c95d1cb8a4afc1a0908d849b287fba89933800a3b14acddd0906ef5c808",
+    "videoCodec": "h264",
+    "width": 1248,
+    "height": 1632,
+    "duration": 5.06,
+    "fps": 24.0,
+    "audioStream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 219 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 32
+      },
+      {
+        "type": "moov",
+        "position": 32,
+        "bytes": 4705
+      },
+      {
+        "type": "free",
+        "position": 4737,
+        "bytes": 8
+      },
+      {
+        "type": "mdat",
+        "position": 4745,
+        "bytes": 10879377
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/motion-study-p1.jpg",
+        "seconds": 0.7589999999999999,
+        "width": 979,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/motion-study-p2.jpg",
+        "seconds": 2.2769999999999997,
+        "width": 979,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/motion-study-p3.jpg",
+        "seconds": 3.795,
+        "width": 979,
+        "height": 1280
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/66.m4v",
+    "title": "66",
+    "url": "assets/films-updated/film-66.mp4",
+    "bytes": 64689714,
+    "sha256": "226d2671d9b3e797e652f7a76e272c7de95137f36a5f41d9c20b03c08248e927",
+    "videoCodec": "h264",
+    "width": 1170,
+    "height": 1686,
+    "duration": 14.23,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 6942
+      },
+      {
+        "type": "uuid",
+        "position": 6966,
+        "bytes": 21569
+      },
+      {
+        "type": "mdat",
+        "position": 28535,
+        "bytes": 64661179
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/film-66-p1.jpg",
+        "seconds": 2.1345,
+        "width": 888,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/film-66-p2.jpg",
+        "seconds": 6.4035,
+        "width": 888,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/film-66-p3.jpg",
+        "seconds": 10.6725,
+        "width": 888,
+        "height": 1280
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/SOUL1.m4v",
+    "title": "SOUL1",
+    "url": "assets/films-updated/soul1.mp4",
+    "bytes": 50419771,
+    "sha256": "73db8a4570be2774726435400b245e2b089eec3268c22aa41e730c8a4a3ead78",
+    "videoCodec": "h264",
+    "width": 3840,
+    "height": 2160,
+    "duration": 9.73,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 316 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 5177
+      },
+      {
+        "type": "uuid",
+        "position": 5201,
+        "bytes": 13141
+      },
+      {
+        "type": "mdat",
+        "position": 18342,
+        "bytes": 50401429
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/soul1-p1.jpg",
+        "seconds": 1.4595,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "url": "assets/films-updated/soul1-p2.jpg",
+        "seconds": 4.378500000000001,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "url": "assets/films-updated/soul1-p3.jpg",
+        "seconds": 7.2975,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/ZHENGPIAN2.m4v",
+    "title": "ZHENGPIAN2",
+    "url": "assets/films-updated/zhengpian2.mp4",
+    "bytes": 11424298,
+    "sha256": "ef69beb00b3982bc38d7256cdca688666df9711315fcbaa93c0b8c5068b8193b",
+    "videoCodec": "h264",
+    "width": 2340,
+    "height": 3800,
+    "duration": 10.0,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 5242
+      },
+      {
+        "type": "uuid",
+        "position": 5266,
+        "bytes": 36386
+      },
+      {
+        "type": "mdat",
+        "position": 41652,
+        "bytes": 11382646
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/zhengpian2-p1.jpg",
+        "seconds": 1.5,
+        "width": 788,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/zhengpian2-p2.jpg",
+        "seconds": 4.5,
+        "width": 788,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/zhengpian2-p3.jpg",
+        "seconds": 7.5,
+        "width": 788,
+        "height": 1280
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/中秋 - 副本.m4v",
+    "title": "中秋 - 副本",
+    "url": "assets/films-updated/mid-autumn-copy.mp4",
+    "bytes": 8754677,
+    "sha256": "ad10b7ad3585ae8a0d76d72837bc16833dc76bd62f5281a5030dc466fb0cd369",
+    "videoCodec": "h264",
+    "width": 1800,
+    "height": 2400,
+    "duration": 8.37,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 316 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 4657
+      },
+      {
+        "type": "uuid",
+        "position": 4681,
+        "bytes": 13521
+      },
+      {
+        "type": "mdat",
+        "position": 18202,
+        "bytes": 8736475
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/mid-autumn-copy-p1.jpg",
+        "seconds": 1.2554999999999998,
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/mid-autumn-copy-p2.jpg",
+        "seconds": 3.7664999999999997,
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/mid-autumn-copy-p3.jpg",
+        "seconds": 6.2775,
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/买.m4v",
+    "title": "买",
+    "url": "assets/films-updated/mai.mp4",
+    "bytes": 11310086,
+    "sha256": "f906cf4ddb33fd173dd91012f2624f3b3e08de7f79410d05e716445bba905abb",
+    "videoCodec": "h264",
+    "width": 1416,
+    "height": 2124,
+    "duration": 9.83,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 5209
+      },
+      {
+        "type": "uuid",
+        "position": 5233,
+        "bytes": 29303
+      },
+      {
+        "type": "mdat",
+        "position": 34536,
+        "bytes": 11275550
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/mai-p1.jpg",
+        "seconds": 1.4745,
+        "width": 853,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/mai-p2.jpg",
+        "seconds": 4.4235,
+        "width": 853,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/mai-p3.jpg",
+        "seconds": 7.3725000000000005,
+        "width": 853,
+        "height": 1280
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/初六作品.m4v",
+    "title": "初六作品",
+    "url": "assets/films-updated/chuliu.mp4",
+    "bytes": 59801538,
+    "sha256": "7e652ee0b9f61693ef8d5892777a4415e7a5d46912e6fbb066ba80e06414438c",
+    "videoCodec": "h264",
+    "width": 3840,
+    "height": 2160,
+    "duration": 47.33,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 19913
+      },
+      {
+        "type": "uuid",
+        "position": 19937,
+        "bytes": 711516
+      },
+      {
+        "type": "mdat",
+        "position": 731453,
+        "bytes": 59070085
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/chuliu-p1.jpg",
+        "seconds": 7.0995,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "url": "assets/films-updated/chuliu-p2.jpg",
+        "seconds": 21.2985,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "url": "assets/films-updated/chuliu-p3.jpg",
+        "seconds": 35.4975,
+        "width": 1280,
+        "height": 720
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/招财生_1.m4v",
+    "title": "招财生_1",
+    "url": "assets/films-updated/zhaocaisheng-1.mp4",
+    "bytes": 96297514,
+    "sha256": "19da922e3a8d60289a10292e3c7c6e09ef24e9be1ab04edba7b388898094219d",
+    "videoCodec": "h264",
+    "width": 1416,
+    "height": 2124,
+    "duration": 14.0,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 316 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 6838
+      },
+      {
+        "type": "uuid",
+        "position": 6862,
+        "bytes": 29167
+      },
+      {
+        "type": "mdat",
+        "position": 36029,
+        "bytes": 96261485
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/zhaocaisheng-1-p1.jpg",
+        "seconds": 2.1,
+        "width": 853,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/zhaocaisheng-1-p2.jpg",
+        "seconds": 6.3,
+        "width": 853,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/zhaocaisheng-1-p3.jpg",
+        "seconds": 10.5,
+        "width": 853,
+        "height": 1280
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/敢.m4v",
+    "title": "敢",
+    "url": "assets/films-updated/gan.mp4",
+    "bytes": 12125636,
+    "sha256": "b47db4c87444d2a00f99c61a92af799709ed9db41d843504fa7dd03004b9444a",
+    "videoCodec": "h264",
+    "width": 1416,
+    "height": 2124,
+    "duration": 9.83,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 5209
+      },
+      {
+        "type": "uuid",
+        "position": 5233,
+        "bytes": 32192
+      },
+      {
+        "type": "mdat",
+        "position": 37425,
+        "bytes": 12088211
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/gan-p1.jpg",
+        "seconds": 1.4745,
+        "width": 853,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/gan-p2.jpg",
+        "seconds": 4.4235,
+        "width": 853,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/gan-p3.jpg",
+        "seconds": 7.3725000000000005,
+        "width": 853,
+        "height": 1280
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/机场广告位第三版.m4v",
+    "title": "机场广告位第三版",
+    "url": "assets/films-updated/airport-ad-v3.mp4",
+    "bytes": 71210923,
+    "sha256": "6794256e11f913cc7c418a1e5d4a7b467c5554ae53a0f93cde76319dfdbc7096",
+    "videoCodec": "h264",
+    "width": 1600,
+    "height": 2800,
+    "duration": 10.07,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 5311
+      },
+      {
+        "type": "uuid",
+        "position": 5335,
+        "bytes": 188283
+      },
+      {
+        "type": "mdat",
+        "position": 193618,
+        "bytes": 71017305
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/airport-ad-v3-p1.jpg",
+        "seconds": 1.5105,
+        "width": 731,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/airport-ad-v3-p2.jpg",
+        "seconds": 4.5315,
+        "width": 731,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/airport-ad-v3-p3.jpg",
+        "seconds": 7.5525,
+        "width": 731,
+        "height": 1280
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  },
+  {
+    "source": "影像/潮.m4v",
+    "title": "潮",
+    "url": "assets/films-updated/chao.mp4",
+    "bytes": 11625556,
+    "sha256": "ca409dedb771e3ddb0df7b55f1ab9b43e1eb44ebe5b51a194e8f7ecdcc823f15",
+    "videoCodec": "h264",
+    "width": 1416,
+    "height": 2124,
+    "duration": 9.83,
+    "fps": 30.0,
+    "audioStream": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)",
+    "fastStart": true,
+    "atoms": [
+      {
+        "type": "ftyp",
+        "position": 0,
+        "bytes": 24
+      },
+      {
+        "type": "moov",
+        "position": 24,
+        "bytes": 5209
+      },
+      {
+        "type": "uuid",
+        "position": 5233,
+        "bytes": 31230
+      },
+      {
+        "type": "mdat",
+        "position": 36463,
+        "bytes": 11589093
+      }
+    ],
+    "posters": [
+      {
+        "url": "assets/films-updated/chao-p1.jpg",
+        "seconds": 1.4745,
+        "width": 853,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/chao-p2.jpg",
+        "seconds": 4.4235,
+        "width": 853,
+        "height": 1280
+      },
+      {
+        "url": "assets/films-updated/chao-p3.jpg",
+        "seconds": 7.3725000000000005,
+        "width": 853,
+        "height": 1280
+      }
+    ],
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "browserCompatibleH264": true
+  }
+]

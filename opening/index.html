@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="以《异族仙灵》为起点的个人作品集，收录实验、商业落地、艺人和影像作品。">
+  <title>异族仙灵 · 递剑开场</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../cursor.css?v=nov20-dagger">
+  <link rel="stylesheet" href="opening.css">
+  <script defer src="opening.js"></script>
+  <link rel="stylesheet" href="../back-button.css?v=nov21">
+</head>
+<body>
+  <main>
+    <div class="opening-sequence" id="opening-sequence">
+      <section class="opening" id="opening" data-state="playing" aria-labelledby="opening-title">
+        <a class="opening-skip" href="../works.html" data-enter>跳过开场，查看作品 ↘</a>
+        <header class="masthead masthead--home">
+          <a class="brand" href="../index.html" aria-label="异族仙灵首页"><span class="sigil" aria-hidden="true">✳</span> 异族仙灵</a>
+          <nav aria-label="主导航"><a class="pearl-about" href="../about.html" aria-label="关于我"><img src="../assets/navigation/about-me.png" width="132" height="53" alt="About me"></a></nav>
+        </header>
+        <div class="scene">
+          <div class="shot shot--look">
+            <div class="look-crop">
+              <img src="media/angles.webp" alt="" fetchpriority="high">
+              <img class="lift" src="media/lift.webp" alt="">
+            </div>
+          </div>
+          <div class="shot shot--hold"><img src="media/hold.webp" alt=""></div>
+          <div class="shot shot--offer">
+            <img src="media/offer.webp" alt="淡绿仙灵把缠绳剑柄递向访客" fetchpriority="high">
+            <button class="take" id="take" type="button" aria-label="接剑进入作品" aria-describedby="take-hint" disabled>
+              <span class="target-mark" aria-hidden="true">＋</span>
+              <span class="take-caption"><strong>接剑进入作品 <span aria-hidden="true">↘</span></strong><small id="take-hint">点击 / 向下轻拉</small></span>
+            </button>
+          </div>
+        </div>
+        <div class="opening-title">
+          <p class="eyebrow">个人作品集</p>
+          <h1 id="opening-title" lang="en">Otherkin<br>Faerie.</h1>
+        </div>
+        <div class="opening-footer">
+          <p class="scroll-hint" id="scroll-hint" hidden>向下滚动推进，向上滚动回看</p>
+          <div class="opening-controls">
+            <button class="text-action" id="replay" type="button"><span aria-hidden="true">↻</span> 重播开场</button>
+            <button class="text-action scroll-mode" id="scroll-mode" type="button" aria-pressed="false" aria-describedby="scroll-hint">滚动控镜</button>
+          </div>
+          <div class="reel">
+            <span id="reel-time" aria-hidden="true">00:00</span>
+            <input id="reel" type="range" min="0" max="4000" step="50" value="0" aria-label="开场进度">
+            <span aria-hidden="true">00:04</span>
+          </div>
+        </div>
+      </section>
+      <div class="opening-scroll-track" aria-hidden="true"></div>
+    </div>
+
+  </main>
+
+  <div class="entry" id="entry" aria-hidden="true" hidden>
+    <div class="entry-image"><img src="../labs/project-tracker/assets/posters/xoxobliterate.jpg" alt="" decoding="async"><p>实验 / XOXObliterate</p></div>
+    <img class="entry-blade" src="media/sword.webp" alt="" decoding="async">
+    <span class="entry-edge"></span>
+  </div>
+</body>
+</html>
+

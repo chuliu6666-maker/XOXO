@@ -1,0 +1,62 @@
+[
+  {
+    "source": "商业落地/锦岸/a6f57e6d874aec603cde3d290b4933ed.jpg",
+    "sourceWidth": 5834,
+    "sourceHeight": 8172,
+    "sourceBytes": 4714688,
+    "sourceSHA256": "f386c26629bda860c45ab45562586db5a4c95f18fcd0d9db98aaf475b3662a46",
+    "url": "assets/jinan/updated-01.webp",
+    "width": 1828,
+    "height": 2560,
+    "bytes": 244342,
+    "previewSHA256": "f00bed2ddeb1e0acd8e9ff519e7d1a041745e7a025b395cfdddbcedb3cca5a32"
+  },
+  {
+    "source": "商业落地/锦岸/b7282ac9cd4209376be4c9f707815bfc.jpg",
+    "sourceWidth": 5834,
+    "sourceHeight": 8172,
+    "sourceBytes": 5573145,
+    "sourceSHA256": "0df516f69f66a1e35930d9c397846325b5c9b8ada219524496ebfdc7ee1bda8b",
+    "url": "assets/jinan/updated-02.webp",
+    "width": 1828,
+    "height": 2560,
+    "bytes": 316716,
+    "previewSHA256": "e99630073e83020a1d7abbaa9a730cf92dcd444f3cce47c16a60deefb7e971af"
+  },
+  {
+    "source": "商业落地/锦岸/b754f51e5d687f74d8c71974efa32d95.jpg",
+    "sourceWidth": 5834,
+    "sourceHeight": 8172,
+    "sourceBytes": 3575276,
+    "sourceSHA256": "31b7694d9a21d69b91aefb14c9864a33c7497a7ade30e1d5b38fb0648888cd46",
+    "url": "assets/jinan/updated-03.webp",
+    "width": 1828,
+    "height": 2560,
+    "bytes": 210424,
+    "previewSHA256": "d47a9b367f9738e9910d784d429cdae16c9f78c6208621454276966041cc7640"
+  },
+  {
+    "source": "商业落地/锦岸/bc454b362f1672e2af3f1362e15b32a7.png",
+    "sourceWidth": 4757,
+    "sourceHeight": 3500,
+    "sourceBytes": 15136223,
+    "sourceSHA256": "f167fe55784885ccc107cc9f0b0f8db12ac6da21431dd2409d2fbeb9f34e98aa",
+    "url": "assets/jinan/updated-04.webp",
+    "width": 2560,
+    "height": 1884,
+    "bytes": 922638,
+    "previewSHA256": "eb83e1c126182f1c98b1e747aaa441417be44010f9ddcfecdd521018a70d639c"
+  },
+  {
+    "source": "商业落地/锦岸/8b777aedcc54347885095fa7ad6e378b.png",
+    "sourceWidth": 5000,
+    "sourceHeight": 3750,
+    "sourceBytes": 27622573,
+    "sourceSHA256": "154f0c8393c6d9dd03fac29d6e28704c47c12825539540d85e7c529046969a03",
+    "url": "assets/jinan/updated-05.webp",
+    "width": 2560,
+    "height": 1920,
+    "bytes": 1314470,
+    "previewSHA256": "8197d7f2d647b2d07fa5f8d8a74a412dc383258f4c46c324fcedcd0779d4ba22"
+  }
+]

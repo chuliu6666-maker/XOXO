@@ -1,0 +1,74 @@
+[
+  {
+    "source": "商业落地/西安印象城/fd8030b0c9a3785896f761f93c085322.jpg",
+    "sourceWidth": 5759,
+    "sourceHeight": 2905,
+    "sourceBytes": 8480557,
+    "sourceSHA256": "f09b1ce6b404291454bcaf5eedac32aeac7ce47b72afc8756e78318c610a5e4f",
+    "url": "assets/impression-city/updated-01.webp",
+    "width": 2560,
+    "height": 1291,
+    "bytes": 683680,
+    "previewSHA256": "f0479499efdb38bbb48e9c317147ca365d2e25ff28688642c6393f9a45bab676"
+  },
+  {
+    "source": "商业落地/西安印象城/12133.png",
+    "sourceWidth": 4000,
+    "sourceHeight": 3000,
+    "sourceBytes": 18859466,
+    "sourceSHA256": "2868369b92e5e983ea68df9d1af070a382f3d4a3622077ec60bb371b90cf0bcc",
+    "url": "assets/impression-city/updated-02.webp",
+    "width": 2560,
+    "height": 1920,
+    "bytes": 716150,
+    "previewSHA256": "51f46b10a34f9e6b6144353796637575d5c2cf81ee8a4b1a875bf3f56813ec2f"
+  },
+  {
+    "source": "商业落地/西安印象城/wd.png",
+    "sourceWidth": 6000,
+    "sourceHeight": 4000,
+    "sourceBytes": 34354601,
+    "sourceSHA256": "2848bc4b865306a0432ac946fd343a9143f9f04db2bc93bc95568a36f3b7e5f6",
+    "url": "assets/impression-city/updated-03.webp",
+    "width": 2560,
+    "height": 1707,
+    "bytes": 1023680,
+    "previewSHA256": "7c94b1e2658431379670b4d201e05bf8f69d4795b51914888489034e22cfa77e"
+  },
+  {
+    "source": "商业落地/西安印象城/85222588.png",
+    "sourceWidth": 1080,
+    "sourceHeight": 1618,
+    "sourceBytes": 1895568,
+    "sourceSHA256": "5ca70e3b18c505d51a348f0814bed337ac870bc0edfb7e0b80aad324dc0caa8c",
+    "url": "assets/impression-city/updated-04.webp",
+    "width": 1080,
+    "height": 1618,
+    "bytes": 284648,
+    "previewSHA256": "916a00dd92a9119e5d9e5c8d7a4823ed68c5f3317a3bd039ba4153aff6f7a3e3"
+  },
+  {
+    "source": "商业落地/西安印象城/2323-03.jpg",
+    "sourceWidth": 887,
+    "sourceHeight": 5907,
+    "sourceBytes": 2160609,
+    "sourceSHA256": "7e5f8a35f390d2ef3826f3cc93cc8db65c04efd402a359f5a222d92339cc440e",
+    "url": "assets/impression-city/updated-05.webp",
+    "width": 384,
+    "height": 2560,
+    "bytes": 142720,
+    "previewSHA256": "4bed7d668331885425b224add7aecc16f25d4202e5535d32337b6f57782b4874"
+  },
+  {
+    "source": "商业落地/西安印象城/808080-05.jpg",
+    "sourceWidth": 474,
+    "sourceHeight": 1064,
+    "sourceBytes": 478580,
+    "sourceSHA256": "ca3ee5f4386e3c83521c6a723c69111ada711303fdf6c57bc130efbaa0453a97",
+    "url": "assets/impression-city/updated-06.webp",
+    "width": 474,
+    "height": 1064,
+    "bytes": 125334,
+    "previewSHA256": "4849ddea48788005e05764096fc7037bff9f71179f0cda2ff8bf57783b03fe2d"
+  }
+]

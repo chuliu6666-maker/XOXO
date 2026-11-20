@@ -1,0 +1,110 @@
+[
+  {
+    "source": "商业落地/艺人/小鬼-02.jpg",
+    "sourceWidth": 6801,
+    "sourceHeight": 10268,
+    "sourceBytes": 42159794,
+    "sourceSHA256": "a229f84e5257e5e3a2e36754063969a319f867a63359267bf1e93dc69c8e9755",
+    "url": "assets/artist-visuals/updated-01.webp",
+    "width": 1696,
+    "height": 2560,
+    "bytes": 1359064,
+    "previewSHA256": "1ffeb888f6fd3c8fd24081598ddb1c00e199583e59c3cc226910e36a54776e5c"
+  },
+  {
+    "source": "商业落地/艺人/小鬼_画板 1.jpg",
+    "sourceWidth": 6801,
+    "sourceHeight": 10268,
+    "sourceBytes": 58445624,
+    "sourceSHA256": "0fa96e60d60bf536a9083b32e54fee0e64369b2fe3ed69defa90c8f067f35eaa",
+    "url": "assets/artist-visuals/updated-02.webp",
+    "width": 1696,
+    "height": 2560,
+    "bytes": 1625742,
+    "previewSHA256": "b87a416cda4e84b416c53018442b94c3277f9a4322d26e2a1af8d6cd569e3141"
+  },
+  {
+    "source": "商业落地/艺人/16e0d1a1131b63362f6403874ec8c323.jpg",
+    "sourceWidth": 1792,
+    "sourceHeight": 2400,
+    "sourceBytes": 7251554,
+    "sourceSHA256": "46a4de23271b2fdd06d48e0c58a74feda23e205de968296dcd20b2db4ee25249",
+    "url": "assets/artist-visuals/updated-03.webp",
+    "width": 1792,
+    "height": 2400,
+    "bytes": 2012328,
+    "previewSHA256": "91c94f30ff5c1211ad896b387fff3e8e8ee54302f300171b342d414672ecfa83"
+  },
+  {
+    "source": "商业落地/艺人/411c019ba8d411aed1be3ccea6f9ac68.jpg",
+    "sourceWidth": 1280,
+    "sourceHeight": 1920,
+    "sourceBytes": 305936,
+    "sourceSHA256": "ca48c324cfa587c4ca064e5f501a1684a296a641a0c176bdd4bf3c1f71d303bf",
+    "url": "assets/artist-visuals/updated-04.webp",
+    "width": 1280,
+    "height": 1920,
+    "bytes": 366618,
+    "previewSHA256": "338e361fcdab3ae76df82fcc33291045e846ad3a80a83d460c21fe2da5060cb0"
+  },
+  {
+    "source": "商业落地/艺人/6a9f90286a75fe9a486fe92020b33582.jpg",
+    "sourceWidth": 1279,
+    "sourceHeight": 1810,
+    "sourceBytes": 265918,
+    "sourceSHA256": "382adf9cadab661f7a139703bfc3e9ae5a78001185eafe027ccf663ab2feb8e4",
+    "url": "assets/artist-visuals/updated-05.webp",
+    "width": 1279,
+    "height": 1810,
+    "bytes": 319306,
+    "previewSHA256": "248a2dfccf57198363716195af0e663ebf31a26c04462c820c1a058029938904"
+  },
+  {
+    "source": "商业落地/艺人/077a8d07e360e9392bd6586d1f43c512.jpg",
+    "sourceWidth": 1279,
+    "sourceHeight": 1810,
+    "sourceBytes": 210568,
+    "sourceSHA256": "25e53b2ae9ebb87dff6ca27b8424142dafe76ad555a546d9a160c4b2a99ab005",
+    "url": "assets/artist-visuals/updated-06.webp",
+    "width": 1279,
+    "height": 1810,
+    "bytes": 265538,
+    "previewSHA256": "ced008aa7b95423ae30b442b0721c2863946efaadfdca318b4d27dcb961cf62f"
+  },
+  {
+    "source": "商业落地/艺人/6788067337a2b185355b8edb149ee7da.jpg",
+    "sourceWidth": 3072,
+    "sourceHeight": 5461,
+    "sourceBytes": 17568048,
+    "sourceSHA256": "abbab21122a315b801c6bcee90dfa8d02a6c7a22ea3d2b2eb1ace4a947667661",
+    "url": "assets/artist-visuals/updated-07.webp",
+    "width": 1440,
+    "height": 2560,
+    "bytes": 1000046,
+    "previewSHA256": "6bea9af8b49382ed18677abccf472ccba996fca8d0dbb196c2f5264aa7a67974"
+  },
+  {
+    "source": "商业落地/艺人/1 - 副本.JPG",
+    "sourceWidth": 3184,
+    "sourceHeight": 3763,
+    "sourceBytes": 7376245,
+    "sourceSHA256": "ce4d242dd3917bf7cf6558dd21a175ce813c2eb1053a4c6ce5dffbc9f2c985bc",
+    "url": "assets/artist-visuals/updated-08.webp",
+    "width": 2166,
+    "height": 2560,
+    "bytes": 1262220,
+    "previewSHA256": "0a2873eda9330480021c83136f3637b03c24a3c534f417cf4aba5b542e3ba7c0"
+  },
+  {
+    "source": "商业落地/艺人/微信图片_2025-09-03_214521_094.jpg",
+    "sourceWidth": 4961,
+    "sourceHeight": 7016,
+    "sourceBytes": 4171564,
+    "sourceSHA256": "87109c76d2439668cb4e72bd1f211e2f885509c94f584ee032350aed9e6594cc",
+    "url": "assets/artist-visuals/updated-09.webp",
+    "width": 1810,
+    "height": 2560,
+    "bytes": 1956868,
+    "previewSHA256": "3b64019ffab3a92fe0d55fe7783b53c26699d8a20495a51c3a8b0b11a04a016b"
+  }
+]
