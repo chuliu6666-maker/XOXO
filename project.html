@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#000000">
+  <title>项目 · 异族仙灵</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="cursor.css?v=nov20-dagger">
+  <link rel="stylesheet" href="interior.css?v=portfolio-final-grid">
+  <link rel="stylesheet" href="case-layout.css?v=nov20-final">
+  <link rel="stylesheet" href="cosmo-story.css?v=nov20-final">
+  <script defer src="works.js?v=nov20-final"></script>
+  <script defer src="project.js?v=nov20-final"></script>
+  <link rel="stylesheet" href="back-button.css?v=nov21">
+</head>
+<body class="case-page">
+  <header class="interior-nav">
+    <a class="pearl-back" id="return-works" href="works.html" aria-label="返回作品索引" title="返回作品索引"><img src="assets/navigation/back-pearl-knot.png" alt="" width="56" height="56"></a>
+    <nav aria-label="主导航"><a class="pearl-about" href="about.html" aria-label="关于我"><img src="assets/navigation/about-me.png" width="132" height="53" alt="About me"></a></nav>
+  </header>
+  <main class="case" id="project">
+    <header class="case-heading">
+      <h1 id="project-title">项目</h1>
+      <p id="project-category"></p>
+      <p id="project-missing" hidden>未找到这个项目。<a href="works.html">返回作品索引 ↗</a></p>
+    </header>
+    <section class="case-overview" id="project-overview" aria-label="项目介绍" hidden>
+      <dl class="case-facts" id="project-facts"></dl>
+      <div class="case-description" id="project-description"></div>
+    </section>
+    <div class="case-gallery" id="project-gallery" aria-label="项目图集"></div>
+    <a class="case-next" id="next-project" href="works.html" hidden><small>下一个项目</small><strong></strong><span aria-hidden="true">↗</span></a>
+  </main>
+  <dialog class="case-viewer" id="project-viewer" aria-labelledby="viewer-title">
+    <div class="viewer-bar">
+      <span id="viewer-title">查看作品</span>
+      <form method="dialog"><button type="submit" aria-label="关闭大图">×</button></form>
+    </div>
+    <div class="viewer-media" id="project-stage"></div>
+    <div class="viewer-bar viewer-pager">
+      <button type="button" id="previous" aria-label="上一件素材">←</button>
+      <span id="project-counter" aria-live="polite"></span>
+      <button type="button" id="next" aria-label="下一件素材">→</button>
+    </div>
+  </dialog>
+</body>
+</html>
+
